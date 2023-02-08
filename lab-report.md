@@ -3,7 +3,7 @@
 *David Wang, Chris Wang, Sam Ni, Yankee Zhu*  
 *P2 AP Physics 1 G9*  
 *Teacher: Mr. Kim*  
-*Submitted at: <!-- TODO -->*
+*Submitted at: Feb 9, 2023*
 
 ## Objective
 The primary goal of this lab experiment is to develop a method to determine the energy lost during an inelastic collision excluding the loss from friction and confirming the method with measured data. To accomplish this, we have to apply our knowledge of inelastic collision, kinetic energy, and conservation of momentum.
